@@ -1,0 +1,23 @@
+.mywork-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, white, transparent);
+}
+
+.mywork-container h1 {
+    text-align: center;
+}
+
+.mywork-container div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.mywork-container div .card {
+    margin: 20px;
+}
