@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.826e2c27.css",
+    "main.js": "/static/js/main.ce31822c.js",
+    "static/media/portlandingpage.png": "/static/media/portlandingpage.78e13b8396295f2948ec.png",
+    "static/media/ziveini.png": "/static/media/ziveini.d7fe2079310cb758092b.png",
+    "static/media/weightconverter.png": "/static/media/weightconverter.10d31e965bc786115ed1.png",
+    "static/media/bgchanger.png": "/static/media/bgchanger.6ce7c1c253addbacf510.png",
+    "static/media/robofriends.png": "/static/media/robofriends.1ab416506459027c8668.png",
+    "static/media/background.jpg": "/static/media/background.a2b67bb832130f3870eb.jpg",
+    "static/media/nodejs-logo.jpg": "/static/media/nodejs-logo.6776aa0068eed3cbb5bf.jpg",
+    "static/media/css-logo.png": "/static/media/css-logo.4e67641bb68b658d9b2b.png",
+    "static/media/github-logo.png": "/static/media/github-logo.5eab40a02fe444730a11.png",
+    "static/media/html-logo.png": "/static/media/html-logo.33745eadd572612bdf11.png",
+    "static/media/gitbash-logo.png": "/static/media/gitbash-logo.5b955004c3ef50225fc7.png",
+    "index.html": "/index.html",
+    "main.826e2c27.css.map": "/static/css/main.826e2c27.css.map",
+    "main.ce31822c.js.map": "/static/js/main.ce31822c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.826e2c27.css",
+    "static/js/main.ce31822c.js"
+  ]
+}
