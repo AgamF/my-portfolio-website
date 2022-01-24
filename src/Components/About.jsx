@@ -31,6 +31,8 @@ const About = () => {
                 You could say that my dream is to eventually become successful and have financial freedom & stability,<br/>
                 and through working hard on a subject i love, i intend to make that dream come true. <br/><br/>
                 That's it from me! Thank you for checking out my portfolio website 😉
+                
+                My Email: agam123theking@gmail.com
             </p>
             <div className='links-container animate__animated animate__fadeIn'>
                 <div>
