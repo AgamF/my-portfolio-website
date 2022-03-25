@@ -20,7 +20,7 @@ const links = {
     linkRobofriends: 'https://robot-comrades.netlify.app',
     linkZiveini: 'https://ziveini.netlify.app',
     linkBgchanger: 'https://hexcolorchanger.netlify.app',
-    linkWeightconverter: 'https://agams-weight-converter.netlify.app/',
+    linkWeightconverter: 'https://weight-converter-liard.vercel.app',
     linkLandingpage: 'https://agamf.github.io/portfolio-landing-page/'
 }
 
