@@ -4,7 +4,7 @@ import Card from './Card';
 import robofriends from '../assets/robofriends.png';
 import ziveini from '../assets/ziveini.png';
 import bggen from '../assets/bgchanger.png';
-import weightconverter from '../assets/weightconverter.png';
+import weightconv from '../assets/weightconv.png';
 import landingpage from '../assets/portlandingpage.png';
 
 
@@ -33,7 +33,7 @@ const MyWork = () => {
                 <Card link={links.linkRobofriends} img={robofriends} text={titles.titleRobofriends}/>
                 <Card link={links.linkZiveini} img={ziveini} text={titles.titleZiveini}/>
                 <Card link={links.linkBgchanger} img={bggen} text={titles.titleBgchanger}/>
-                <Card link={links.linkWeightconverter} img={weightconverter} text={titles.titleWeightconverter}/>
+                <Card link={links.linkWeightconverter} img={weightconv} text={titles.titleWeightconverter}/>
                 <Card link={links.linkLandingpage} img={landingpage} text={titles.titleLandingpage}/>
             </div>
         </div>
